@@ -22,7 +22,7 @@ Conocimientos básicos de HTML y JavaScript.
 
 */challenge-amigo-secreto_esp-main*
 
-Challenge.html           # Archivo HTML principal
+index.html           # Archivo HTML principal
 
 styles.css          # Archivo de estilos (opcional)
 
@@ -33,7 +33,7 @@ Challenge.js           # Lógica de la aplicación
 
 Clona el repositorio o descarga los archivos.
 
-Abre el archivo Challenge.html en tu navegador.
+Abre el archivo index.html en tu navegador.
 
 **Uso**
 
