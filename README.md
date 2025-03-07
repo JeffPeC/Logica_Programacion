@@ -5,9 +5,13 @@ Este proyecto consiste en una aplicación simple en JavaScript que permite crear
 **Funcionalidades**
 
 *Agregar nombres a la lista: *Permite al usuario ingresar nombres de amigos.
+
 Sorteo de nombres: Al hacer clic en un botón, se selecciona un nombre al azar de la lista.
+
 *Eliminación de nombres sorteados:* Cada nombre sorteado se elimina de la lista.
+
 *Reinicio de la lista: *Una vez que todos los nombres han sido sorteados, se puede crear una nueva lista.
+
 
 **Requisitos**
 
@@ -19,12 +23,16 @@ Conocimientos básicos de HTML y JavaScript.
 */challenge-amigo-secreto_esp-main*
 
 Challenge.html           # Archivo HTML principal
+
 styles.css          # Archivo de estilos (opcional)
+
 Challenge.js           # Lógica de la aplicación
+
 
 **Instalación**
 
 Clona el repositorio o descarga los archivos.
+
 Abre el archivo Challenge.html en tu navegador.
 
 **Uso**
@@ -32,9 +40,11 @@ Abre el archivo Challenge.html en tu navegador.
 Ingresa los nombres de tus amigos en el campo de texto y presiona el botón **"Añadir"** para añadirlos a la lista.
 
 Haz clic en el botón **"Sortear Amigo"** para seleccionar un amigo al azar. El nombre sorteado se eliminará de la lista.
+
 Repite el proceso hasta que no queden más nombres.
 
 **Ejemplo de Código**
+
 Aquí tienes un ejemplo básico del código en JavaScript:
 
 // El principal objetivo de este desafío es fortalecer tus habilidades en lógica de programación. 
